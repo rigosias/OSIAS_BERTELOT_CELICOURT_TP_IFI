@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8NGuS/d3qq+AznI8hV8rA2KfzZRCWk8Vrmt+SYLc8WuCEXUsMc7Qg2zrCttdpW0mbnKjyHc4Cxunb02U5mMvBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celis\\OneDrive\\Desktop\\TP1_Game\\Casses-Brique\\Casses-Brique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celis\\.nuget\\packages\\documentformat.openxml\\2.12.0\\documentformat.openxml.2.12.0.nupkg.sha512",
+    "C:\\Users\\celis\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\celis\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\celis\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\celis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\celis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

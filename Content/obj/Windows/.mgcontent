@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/Ball1.png</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/bck1.jpg</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br0.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br1.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br2.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br3.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br4.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br5.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br6.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br7.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/br8.PNG</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/briquetransparente.png</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/font.spritefont</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/raquette3.png</File>
+    <File>C:/Users/celis/OneDrive/Desktop/TP1_Game/Casses-Brique/Content/sc.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
