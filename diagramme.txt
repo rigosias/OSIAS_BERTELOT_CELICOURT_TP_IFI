@@ -1,0 +1,55 @@
+
+
+-CasseBrique-
+
+Initialize (): void
+LoadContent():void
+update(GameTime game time): void
+draw(GameTime gameTime): void
+drawBgMotif(Texture2D motif): void
+drawPartie():void
+redemarrage(): void
+
+
+-Balle-
+#PositionDep:Vector2
+--------------------
++Initialize (): void
++LoadContent():void
++Draw(GameTime gameTime):void
++Update(GameTime gameTime):void
++Demarrage():void
++BougeBalle(): void
++gestionCollision():void
++gestionCollisionBrique(): void
++Element2D(texture:string)
+
+
+
+-Brique-
+#Position: Vector2
+#size:Vector2
+#Texture2D:string
+# SpriteBatch:spriteBatch
+-------------------
++LoadContent():void
+
+
+-Raquette-
++Initialize():void
++LoadContent(): void
++Draw(GameTime gameTime): void
++Update(GameTime gameTime):void
++Element2D(texture:string)
+
+-MurDeBrique-
+#Texture2D: string
+#position: Vector2
+#size: Vector2
+#vitesse: Vector2
+--------------------
++MurDeBriques(Texture2D texture, Vector2 position, Vector2 size, Vector2 vitesse)
+
+
+
+
